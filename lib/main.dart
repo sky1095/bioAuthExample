@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-import 'biometric_data.dart';
+import 'flutter_locker_test.dart';
 
 void main() {
-  runApp(BioMetericHome());
+  runApp(FlutterLockerTest());
 }

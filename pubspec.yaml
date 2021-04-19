@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   biometric_storage: any
+  flutter_locker: 1.0.2
 
 
 
